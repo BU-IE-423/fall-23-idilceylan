@@ -8,4 +8,4 @@ Welcome to my Github Page
 - Yusuf Ali Bozkurt 
 
 > ### Project Part 1
-> Follow this link to access part 1: file:///Users/Student/Desktop/423%20html/vertopal.com_423_son.html
+> Follow this link to access part 1: [https://github.com/BU-IE-423/fall-23-yalibozkurt/blob/main/423%20project/IE%20423%20PROJECT%201.html](https://bu-ie-423.github.io/fall-23-yalibozkurt/423%20project/IE%20423%20PROJECT%201.html)
