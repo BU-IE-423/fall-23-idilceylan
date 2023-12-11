@@ -1,1 +1,1 @@
-![my img](part2/images/images/1.jpeg)
+![my img](images/images/1.jpeg)
