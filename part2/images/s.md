@@ -1,1 +1,1 @@
-![my img](images/1)
+![my img](/1)
