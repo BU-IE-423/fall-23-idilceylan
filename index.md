@@ -9,3 +9,6 @@ Welcome to my Github Page
 
 > ### Project Part 1
 > Follow this link to access part 1:[HW part1](https://bu-ie-423.github.io/fall-23-yalibozkurt/423%20project/IE%20423%20PROJECT%201.html)
+
+> ### Project Part 2
+> Follow this link to access part 2:[HW part2]
