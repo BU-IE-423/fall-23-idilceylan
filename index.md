@@ -13,3 +13,5 @@ Welcome to my Github Page
 > ### Project Part 2
 > Follow this link to access part 2:[HW part2](https://bu-ie-423.github.io/fall-23-idilceylan/part2/Part2.html.html)
 
+> ### Project Part 3
+> Follow this link to access part 3:
