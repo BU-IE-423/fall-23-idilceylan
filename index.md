@@ -14,4 +14,4 @@ Welcome to my Github Page
 > Follow this link to access part 2:[HW part2](https://bu-ie-423.github.io/fall-23-idilceylan/part2/Part2.html.html)
 
 > ### Project Part 3
-> Follow this link to access part 3:
+> Follow this link to access part 3:[HW part3](https://bu-ie-423.github.io/fall-23-ibrahimkoksal/423part3/IE423%20Part3/IE423Part3.html)
